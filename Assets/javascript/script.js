@@ -10,8 +10,8 @@
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
-  owner: 'Jonas Schmedtmann',
-  movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
+  owner: 'Yusuf Dahud',
+  movements: [150, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
 
@@ -25,13 +25,13 @@ const account1 = {
     '2023-01-28T23:36:17.929Z',
     '2023-02-01T10:51:36.790Z',
   ],
-  currency: 'EUR',
+  currency: 'NGN',
   locale: 'pt-PT', // de-DE
 };
 
 const account2 = {
-  owner: 'Jessica Davis',
-  movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
+  owner: 'Ishola Yusuf',
+  movements: [4000, 4400, -250, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
   pin: 2222,
 
@@ -45,7 +45,7 @@ const account2 = {
     '2022-06-25T18:49:59.371Z',
     '2023-01-26T12:01:20.894Z',
   ],
-  currency: 'USD',
+  currency: 'NGN',
   locale: 'en-US',
 };
 

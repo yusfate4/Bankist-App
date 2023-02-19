@@ -1,9 +1,8 @@
 /*
- * Use this CSS to learn some intersting techniques,
+ * Use this CSS to learn some interesting techniques,
  * in case you're wondering how I built the UI.
  * Have fun! 😁
  */
-
  * {
     margin: 0;
     padding: 0;
@@ -18,7 +17,7 @@
   body {
     font-family: "Poppins", sans-serif;
     color: #444;
-    background-color: #f3f3f3;
+    background-color: #d7dfd8;
     height: 100vh;
     padding: 2rem;
   }
@@ -32,6 +31,7 @@
   
   .welcome {
     font-size: 1.9rem;
+    color: #39b385;
     font-weight: 500;
   }
   
