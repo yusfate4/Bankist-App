@@ -21,7 +21,7 @@
 
 ### The project
 
-This project was designed as part of The Complete JavaScript Course 2023. I learned the concept of JavaScript, CSS, and HTML from the tutorial and I built this project along with the tutorial.
+This project was designed as part of [**The Complete JavaScript Course 2023**](https://www.udemy.com/course/the-complete-javascript-course/). I learned the concept of JavaScript, CSS, and HTML from the tutorial and I built this project along with the tutorial.
 It is responsive on big screen devices.
 
 
